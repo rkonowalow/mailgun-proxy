@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "mailgun-proxy",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "12615ff6-ecbd-43cd-bb98-ef2b7ae2bd1e",
+			"database_name": "MG-prox-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
